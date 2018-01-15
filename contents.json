@@ -1136,6 +1136,19 @@
       ],
       "emojiflag": "🇭🇺",
       "isnew": false
+    },
+    {
+      "title": "FrenchKit 2018",
+      "year": 2018,
+      "startdate": "2018/09/20",
+      "enddate": "2018/09/21",
+      "where": "Paris",
+      "homepage": "http://frenchkit.fr",
+      "country": "France",
+      "city": "Paris",
+      "callforpaper": false,
+      "twitter": "@frenchkitconf",
+      "topics": [ "ios", "swift" ]
     }
   ]
 }
